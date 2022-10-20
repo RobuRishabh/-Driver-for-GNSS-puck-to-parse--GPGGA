@@ -28,8 +28,8 @@ UTM Easting and UTM Northing values and did analysis of the data I got from GPS 
 * **Multipath**
 
 # Stationary and Walking Data Plots
-<img src="gpsdriver/data/Stationary_scatter.png" width=500px><img src="gpsdriver/data/Stationary_line.png" width=500px>
-<img src="gpsdriver/data/walking_scatter.png" width=500px><img src="gpsdriver/data/walking_line.png" width=500px>
+<img src="gpsdriver/data/Stationary_scatter.png" width=450px><img src="gpsdriver/data/Stationary_line.png" width=450px>
+<img src="gpsdriver/data/walking_scatter.png" width=450px><img src="gpsdriver/data/walking_line.png" width=450px>
 
 # Compensating Errors
 Every error has it’s own way of compensating it, such as:
