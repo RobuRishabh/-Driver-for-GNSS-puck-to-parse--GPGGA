@@ -38,7 +38,7 @@ UTM Easting and UTM Northing values and did analysis of the data I got from GPS 
 Every error has it’s own way of compensating it, such as:
   1. For compensating Satellite clock error, one need to download precise satellite clock information from an spaced based augmentation system (SBAS) or         precise point positioning(PPP) service provider.
   2. Ionospheric and tropospheric Delays can be compensated by differential GNSS and RTK systems.
-  3. The simplest way to reduce multipath errors is to place the GNSS antenna in a location that is away from the reective surface.
+  3. The simplest way to reduce multipath errors is to place the GNSS antenna in a location that is away from the reflective surface.
 
 
 # Follow the steps to perform experiment of parsing the $GPGGA message from GNSS puck 
